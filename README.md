@@ -12,7 +12,7 @@ We are taking our original code, which allowed Steve to analyze DQ stock along w
 The overall 2017 stock performance was a lot better than the 2018 stock performance. As seen in the two images below: 
 
 ** 2017 
-![This is an image] (https://github.com/kmakar24/stockanalysis/blob/main/Screen%20Shot%202021-12-13%20at%208.38.51%20PM.png)
+![This is an image](https://github.com/kmakar24/stockanalysis/blob/main/Screen%20Shot%202021-12-13%20at%208.38.51%20PM.png)
 
 ** 2018 
 
